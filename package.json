@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Starting the backend development",
+  "homepage": "https://github.com/Himanshusinghjeena/NodeJs#readme",
+  "bugs": {
+    "url": "https://github.com/Himanshusinghjeena/NodeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshusinghjeena/NodeJs.git"
+  },
+  "license": "ISC",
+  "author": "Himanshu Singh Jeena",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
