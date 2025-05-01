@@ -4,7 +4,6 @@ const http = require('http');
 const server = http.createServer((req,res)=>{
     if(req.url === '/'){
         res.setHeader('content-Type',"text/html")
-
         res.write("<h1> I am Himanshu Singh Jeena aka HSJ Pahadi himanshu hgsfhkfahk hhhh </h1>");
         res.end()
     }
